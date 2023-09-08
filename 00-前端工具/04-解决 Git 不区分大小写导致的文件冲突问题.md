@@ -69,9 +69,3 @@ git mv Temp Test
 - [Mac 中 git 大小写问题的解决方案](https://shanyue.tech/bug/mac-git-ignorecase.html)
 
 - [git 大小写问题 踩坑笔记](https://blog.csdn.net/u013707249/article/details/79135639)
-
-## 赞赏作者
-
-创作不易，你的赞赏和认可，是我更新的最大动力：
-
-![](https://img.smyhvae.com/20220401_1800.jpg)

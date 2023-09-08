@@ -49,8 +49,3 @@ publish: false
 参考链接：
 
 - [问Vue.js 如何在 data 里含数组的情况下，监听数组内指定属性的变化？](https://segmentfault.com/q/1010000014514160/a-1020000014514452)
-
-
-
-
-

@@ -406,12 +406,3 @@ PS：我发现，我安装的 node.js v8.9.4 版本，已经自动添加了环�
 ### 3、将 less 文件编译为 css 文件
 
 在 less 所在的路径下，输入 `lessc xxx.less`，即可编译成功。或者，如果输入 `lessc xxx.less > ..\xx.css`，表示输出到指定路径。
-
-
-## 我的公众号
-
-想学习<font color=#0000ff>**更多技能**</font>？不妨关注我的微信公众号：**千古壹号**（id：`qianguyihao`）。
-
-扫一扫，你将发现另一个全新的世界，而这将是一场美丽的意外：
-
-![](http://img.smyhvae.com/2016040102.jpg)

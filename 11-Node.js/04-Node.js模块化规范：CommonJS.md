@@ -692,18 +692,3 @@ module3.foo2();
 ```html
     <script type="text/javascript" src="js/dist/bundle.js"></script>
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

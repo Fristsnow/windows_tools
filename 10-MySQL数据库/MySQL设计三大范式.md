@@ -36,12 +36,3 @@ publish: false
 
 - [MySql--数据库设计三范式](https://www.jianshu.com/p/3e97c2a1687b)
 
-
-
-
-
-
-
-
-
-

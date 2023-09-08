@@ -611,12 +611,3 @@ function scroll() {  // 开始封装自己的scrollTop
 效果演示：
 
 ![](http://img.smyhvae.com/20180203_1920.gif)
-
-
-## 我的公众号
-
-想学习<font color=#0000ff>**更多技能**</font>？不妨关注我的微信公众号：**千古壹号**（id：`qianguyihao`）。
-
-扫一扫，你将发现另一个全新的世界，而这将是一场美丽的意外：
-
-![](http://img.smyhvae.com/2016040102.jpg)

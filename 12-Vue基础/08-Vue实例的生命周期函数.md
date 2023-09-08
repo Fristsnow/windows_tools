@@ -195,8 +195,3 @@ PS：可以在beforeDestroy里**清除定时器、或清除事件绑定**。
 ![](http://img.smyhvae.com/20180611_2130.png)
 
 PS：图片来自网络。
-
-
-
-
-

@@ -668,12 +668,3 @@ div.style.left = "100px";
 
 工程文件：[2018-02-02-JS动画实现轮播图.rar](https://github.com/qianguyihao/web-resource/blob/main/project/2018-02-02-JS%E5%8A%A8%E7%94%BB%E5%AE%9E%E7%8E%B0%E8%BD%AE%E6%92%AD%E5%9B%BE.rar)
 
-
-## 我的公众号
-
-想学习<font color=#0000ff>**更多技能**</font>？不妨关注我的微信公众号：**千古壹号**（id：`qianguyihao`）。
-
-扫一扫，你将发现另一个全新的世界，而这将是一场美丽的意外：
-
-![](http://img.smyhvae.com/2016040102.jpg)
-

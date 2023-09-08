@@ -242,12 +242,3 @@ div举例：
 效果演示：
 
 ![Paste_Image.png](http://img.smyhvae.com/2015-10-01-cnblogs_html_07.png)
-
-
-## 我的公众号
-
-想学习**更多技能**？不妨关注我的微信公众号：**千古壹号**（id：`qianguyihao`）。
-
-扫一扫，你将发现另一个全新的世界，而这将是一场美丽的意外：
-
-![](https://img.smyhvae.com/20200102.png)

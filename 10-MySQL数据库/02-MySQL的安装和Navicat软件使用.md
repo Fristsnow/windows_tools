@@ -100,6 +100,3 @@ Navicat Premium 软件是一种数据库管理的GUI软件，采用可视化的�
 ### 导入外部 sql 文件
 
 在 Navicat中，选中当前 database 之后，右键选择“运行sql文件”，即可导入外部sql文件。
-
-
-

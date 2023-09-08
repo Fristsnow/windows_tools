@@ -678,9 +678,3 @@ for (var i = 0; i < str2.length; i++) {
 打印结果：
 
 ![](http://img.smyhvae.com/20180202_1540.png)
-
-## 赞赏作者
-
-创作不易，你的赞赏和认可，是我更新的最大动力：
-
-![](https://img.smyhvae.com/20220401_1800.jpg)

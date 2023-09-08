@@ -60,29 +60,3 @@ server.listen(8080);
 function 回调函数里可以设置两个参数：request 和 response。`response.write()`表示向浏览器输出一些内容。
 
 将上面的 js 代码跑起来，产生的问题是，无论我们在浏览器端输入`http://localhost:8080/1.html`，还是输入`http://localhost:8080/2.jpg`，浏览器上显示的都是`smyhvae`。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

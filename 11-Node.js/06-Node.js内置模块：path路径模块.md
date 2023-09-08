@@ -136,15 +136,3 @@ console.log(result3); // 返回：/foo1/foo2/foo3
 
 
 - os.networkInterfaces() 查看网络地址
-
-
-## 我的公众号
-
-想学习**更多技能**？不妨关注我的微信公众号：**千古壹号**（id：`qianguyihao`）。
-
-扫一扫，你将发现另一个全新的世界，而这将是一场美丽的意外：
-
-![](https://img.smyhvae.com/20200102.png)
-
-
-

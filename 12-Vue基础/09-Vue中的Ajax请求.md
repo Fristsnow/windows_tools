@@ -556,6 +556,3 @@ Vue就提供了这个功能。举例如下：
 ```javascript
 this.$http.get('api/getprodlist')
 ```
-
-
-

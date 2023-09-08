@@ -391,8 +391,3 @@ fs.readdir("/tmp/",function(err, files){
 - 删除目录
 
 - 输入输出
-
-
-
-
-

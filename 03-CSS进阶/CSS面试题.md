@@ -113,9 +113,3 @@ overflow:hidden ：取消父子 margin 合并。 （另一种推荐做法：`pad
 - 伪类：使用单冒号
 
 - 伪元素：使用双冒号
-
-## 参考链接
-
-- [互联网公司招聘启事的正确阅读方式](https://zhuanlan.zhihu.com/p/33998813)
-
-

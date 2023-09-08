@@ -157,7 +157,3 @@ new_element = document.createElement("style");
 new_element.innerHTML =(".tucao-content p{font-size:18px;}");
 document.body.appendChild(new_element);
 ```
-
-参考链接：
-
-- js 插入公共css的方法：https://blog.csdn.net/u013970232/article/details/90578937
