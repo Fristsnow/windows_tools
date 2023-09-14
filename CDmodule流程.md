@@ -61,6 +61,7 @@ Game Page
 ​	Courier
 
 1. Online
+1. get infomation
 
 ​	Trucker
 
