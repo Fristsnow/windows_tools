@@ -74,3 +74,13 @@ Game Page
 
 1. 403   "permission denied" 
 2. 402   "unauthenticated"
+
+## D：
+
+1，介绍页面
+
+赛题第一个拿去CV
+
+1. editor page
+   1. play demo 点击切换 Return to editor	（相互切换）
+   2. Home window.location.reload();
